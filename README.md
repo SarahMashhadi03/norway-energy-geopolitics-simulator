@@ -1,2 +1,2 @@
-# norway-energy-geopolitics-simulator
-Interactive energy geopolitics simulator for Norway based on DNV data
+# norway-energy-transition-dashboard
+Interactive energy transition simulator for Norway based on DNV data
